@@ -17,7 +17,6 @@ that include image files.  Shadowbox.js 3.0.3 is currently bundled with this plu
 - In your active theme, open the file "items/show.php."  
 
 - In the HTML/PHP code for show.php, search for the following line:
-
 	<?php echo item_image_gallery(); ?>
 
 And replace it with the following:
@@ -25,7 +24,6 @@ And replace it with the following:
 	<?php echo shadowpage_public_items_shadowpage_gallery(); ?>
 
 - Next, search for the following line in show.php:
-
 	<?php echo files_for_item(); ?>
 
 And replace it with the following:
