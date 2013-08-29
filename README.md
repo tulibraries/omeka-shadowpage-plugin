@@ -18,7 +18,7 @@ that include image files.  Shadowbox.js 3.0.3 is currently bundled with this plu
 
 - In the HTML/PHP code for show.php, do a search-and-replace to call the ShadowPage functions.
 
-Search for the following line:
+Search for the following line in show.php:
 
 	<?php echo item_image_gallery(); ?>
 
