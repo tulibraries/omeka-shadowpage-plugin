@@ -1,6 +1,8 @@
 # Omeka ShadowPage Plugin Readme
 
-## This plugin uses the Shadowbox.js Javascript application to create keyboard- and mouse-operable page-turning functionality for Omeka items
+## About this plugin 
+
+This plugin uses the Shadowbox.js Javascript application to create keyboard- and mouse-operable page-turning functionality for Omeka items
 that include image files.  Shadowbox.js 3.0.3 is currently bundled with this plugin.  
 
 ## Installing and Enabling the Plugin
